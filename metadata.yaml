@@ -1,10 +1,16 @@
 _repo: Cremation-of-the-Dead-Its-History-and-Bearings-Upon-Public-Health_48492
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48492-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Eassie, William
     gutenberg_agent_id: '44822'
     url: http://www.gutenberg.org/2009/agents/44822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48492#Cremation-of-the-Dead-Its-History-and-Bearings-Upon-Public-Health
 gutenberg_issued: '2015-03-15'
 gutenberg_type: Text
 identifiers:
